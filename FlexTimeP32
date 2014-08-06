@@ -1,0 +1,1 @@
+FlexTimeP32 is a flexible interrupt-driven timer library which is written for the ChipKIT PIC32MX series of Arduino-compatible microcontroller development boards and the Arduino MPIDE platform. It allows timers 3, 4 and 5 of the PIC32MX to be used independantly for time delays from 0.8 uS to 2584 days.
